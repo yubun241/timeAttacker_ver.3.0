@@ -1,2 +1,2 @@
-# timeAttacker_Ver.3.0
-Ver3.0
+# timeAttacker_ver2.0
+TimeAttackerのニューバージョン
