@@ -2958,7 +2958,7 @@ window.addEventListener('error', function(e) {
       calibrateGBall();
 
       const btn = document.getElementById('btn-start-stop');
-      btn.textContent = 'RUNNING';
+      btn.textContent = 'RUN';
       btn.className = 'big-action running';
 
       setDriveState('スタート線通過待ち', 'armed');
