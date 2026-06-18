@@ -26,7 +26,7 @@ window.addEventListener('error', function(e) {
 })();
 
 /* ============================================================
-   TIME ATTACKER  (Ver.2.0 / 藤井工藝)
+   TIME ATTACKER  (Ver.3.0 / 藤井工藝)
    GPS time-attack PWA with map-based line drawing
    ============================================================ */
 
